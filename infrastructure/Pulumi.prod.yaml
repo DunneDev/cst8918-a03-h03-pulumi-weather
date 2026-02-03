@@ -7,3 +7,5 @@ config:
   cst8918-a03-infra:memory: '2'
   cst8918-a03-infra:prefixName: 'dunn0203'
   cst8918-a03-infra:imageTag: 'v0.2.0'
+  cst8918-a03-infra:weatherApiKey:
+    secure: AAABAOtgs8UGAK492TrHXp09lUDLvXSn4BmJ5qdiSnSpfe4sGTgkqEA0sJFsulv+VTwOh7hm3MB3pdU2UiTFMA==
